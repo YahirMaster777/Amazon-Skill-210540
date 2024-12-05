@@ -228,11 +228,11 @@ exports.handler = Alexa.SkillBuilders.custom()
 
 ## Resultados:
 <div style="display: flex; justify-content: space-between;"> 
-    <img src="Imagenes/1.png?raw=true" alt="Evidencia 1" width="200"/> 
-    <img src="Imagenes/2.png?raw=true" alt="Evidencia 2" width="200"/> 
+    <img src="Imagenes/1.png?raw=true" alt="Evidencia 1" width="350"/> 
+    <img src="Imagenes/2.png?raw=true" alt="Evidencia 2" width="350"/> 
 </div> <div style="display: flex; justify-content: space-between; margin-top: 10px;"> 
-    <img src="Imagenes/3.png?raw=true" alt="Evidencia 4" width="200"/> 
-    <img src="Imagenes/4.png?raw=true" alt="Evidencia 5" width="200"/> 
+    <img src="Imagenes/3.png?raw=true" alt="Evidencia 4" width="350"/> 
+    <img src="Imagenes/4.png?raw=true" alt="Evidencia 5" width="350"/> 
 </div>
 
 
