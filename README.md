@@ -9,8 +9,8 @@ Repositorio con el reporte de practica donde se creo un skills personalizable de
 ## **Documentación**
 ---
 <div style="display: flex; justify-content: space-between;">
-    <img align="left" src="Img/LOGO TIC.png" alt="Logo TIC" width="300" />
-    <img align="right" src="Img/LOGO UTXJ.png" alt="Logo UTXJ" width="300"/>
+    <img align="left" src="LOGO TIC.png" alt="Logo TIC" width="300" />
+    <img align="right" src="LOGO UTXJ.png" alt="Logo UTXJ" width="300"/>
 </div>
 
 <div style="text-align: center;">
@@ -228,11 +228,11 @@ exports.handler = Alexa.SkillBuilders.custom()
 
 ## Resultados:
 <div style="display: flex; justify-content: space-between;"> 
-    <img src="imagenes/1.png?raw=true" alt="Evidencia 1" width="200"/> 
-    <img src="imagenes/2.png?raw=true" alt="Evidencia 2" width="200"/> 
+    <img src="Imagenes/1.png?raw=true" alt="Evidencia 1" width="200"/> 
+    <img src="Imagenes/2.png?raw=true" alt="Evidencia 2" width="200"/> 
 </div> <div style="display: flex; justify-content: space-between; margin-top: 10px;"> 
-    <img src="imagenes/3.png?raw=true" alt="Evidencia 4" width="200"/> 
-    <img src="imagenes/4.png?raw=true" alt="Evidencia 5" width="200"/> 
+    <img src="Imagenes/3.png?raw=true" alt="Evidencia 4" width="200"/> 
+    <img src="Imagenes/4.png?raw=true" alt="Evidencia 5" width="200"/> 
 </div>
 
 
